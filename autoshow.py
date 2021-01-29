@@ -31,5 +31,5 @@ if __name__ == '__main__':
 
     else:
         print('WRONG USAGE!')
-        print('The correct usage is: python eztvshow.py [PARENT FOLDER PATH] [TV SHOW NAME] [NUMBER OF SEASONS].')
+        print('The correct usage is: python3 autoshow.py [PARENT FOLDER PATH] [TV SHOW NAME] [NUMBER OF SEASONS].')
 
