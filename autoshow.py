@@ -27,7 +27,7 @@ if __name__ == '__main__':
 
         #Just in case something goes wrong.
         except FileExistsError as e: 
-            print("Woah, woah, woah... You attempted to create a folder that already exists...\nBe careful next time.")
+            print("You attempted to create a folder that already exists...\nBe careful next time.")
 
     else:
         print('WRONG USAGE!')
